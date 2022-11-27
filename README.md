@@ -1,17 +1,17 @@
-# dashboard
-A fully editable homepage 
-WIP
+# The Dashbord
+Not a g a m e site
+:D
 
-Goals (In Order):
-Add new Categories
-Delete Categories
+
+Goals:
+Add more Games
+Delete Failing Games
 Add new Links to Categories
-Delete Links from Categories
+Delete Links from Others
 Move Links to other Categories
 
-Persist Links to Server
+Links to All Working Sites:
+https://mmtrucefacts.github.io/quickfacts/
 
-Open in New Tab vs Open in same tab toggle functionality
-Default Open in New Tab on vs off
 
-Run On Startup (Might not be code-oriented, rather instruction oriented)
+
