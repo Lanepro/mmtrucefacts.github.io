@@ -1,6 +1,5 @@
-# The Dashbord    Sites by Andrew Liu, Games by idk
-Not a g a m e site
-:D
+# The Dashbord    Sites by Andrew Liu
+
 
 (Site names are like this to escape blocks)
 
