@@ -5,10 +5,11 @@
 
 Links to All Working Sites:
 
-https://mmtrucefacts.github.io/quickfacts/
+Slope Game:
+<a href="https://mmtrucefacts.github.io/quickfacts/">https://mmtrucefacts.github.io/quickfacts/</a>
 
-https://mmtrucefacts.github.io/Retro/
+Retro Bowl Game:
+<a href="https://mmtrucefacts.github.io/Retro/">https://mmtrucefacts.github.io/Retro/</a>
 
-https://mmtrucefacts.github.io/incre/
-
-<a href="https://goldendev.tech/tetris">https://goldendev.tech/tetris</a>
+Incremancer Zombie Game:
+<a href="https://mmtrucefacts.github.io/incre/">https://mmtrucefacts.github.io/incre/</a>
