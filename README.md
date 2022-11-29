@@ -1,8 +1,6 @@
 # The Dashbord,    Sites by Andrew Liu
 
 
-(Site names are like this to escape blocks)
-
 Links to All Working Sites:
 
 Slope Game:
