@@ -12,4 +12,4 @@ Retro Bowl Game:
 <a href="https://mmtrucefacts.github.io/Retro/">https://mmtrucefacts.github.io/Retro/</a>
 
 Incremancer Zombie Game:
-<a href="https://mmtrucefacts.github.io/incre/">https://mmtrucefacts.github.io/incre/</a>
+<a href="https://mmtrucefacts.github.io/Afav/">https://mmtrucefacts.github.io/Afav/</a>
