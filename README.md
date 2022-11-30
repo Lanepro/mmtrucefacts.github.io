@@ -1,4 +1,4 @@
-# The Dashbord,    Sites by Andrew Liu
+# The Dashbord,    Sites by AL
 
 
 Links to All Working Sites:
@@ -11,3 +11,8 @@ Retro Bowl Game:
 
 Incremancer Zombie Game:
 <a href="https://mmtrucefacts.github.io/Afav/">https://mmtrucefacts.github.io/Afav/</a>
+
+Run 3:
+<a href="https://mmtrucefacts.github.io/run/">https://mmtrucefacts.github.io/run/</a>
+
+People who are reading this please note that I do not make these games and only made the sites.
