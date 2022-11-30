@@ -15,4 +15,6 @@ Incremancer Zombie Game:
 Run 3:
 <a href="https://mmtrucefacts.github.io/run/">https://mmtrucefacts.github.io/run/</a>
 
+Screen will bug out for Run 3 when clicking any of the top buttons and Run 3 is very laggy.
+
 People who are reading this please note that I do not make these games and only made the sites.
